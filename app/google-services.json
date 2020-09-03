@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779205852883",
+    "firebase_url": "https://smartreply-app.firebaseio.com",
+    "project_id": "smartreply-app",
+    "storage_bucket": "smartreply-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779205852883:android:e2eebfffefc1329aba1e26",
+        "android_client_info": {
+          "package_name": "com.example.smartreplyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779205852883-1oacmdsa2o1hs1jo2dhvoae05vt446vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASc3bmI9bv6vl03eIr8YuAd0lHRXiEzgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779205852883-1oacmdsa2o1hs1jo2dhvoae05vt446vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
